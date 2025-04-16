@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "icon": "/images/Page-1.svg",
+    "title": "Le rêve liber l'expression",
+    "description": ""
+  },
+  {
+    "id": 2,
+    "icon": "/images/Page-2.svg",
+    "title": "Le sens éclaire le parcours",
+    "description": ""
+  },
+  {
+    "id": 3,
+    "icon": "/images/Page-3.svg",
+    "title": "La différence rend unique",
+    "description": ""
+  },
+  {
+    "id": 4,
+    "icon": "/images/Page-4.svg",
+    "title": "La valeur humaine met en mouvement",
+    "description": ""
+  },
+  {
+    "id": 5,
+    "icon": "/images/Page-5.svg",
+    "title": "La clé exprime le style",
+    "description": ""
+  },
+  {
+    "id": 6,
+    "icon": "/images/Page-6.svg",
+    "title": "Le parcours associe rêve et réalité",
+    "description": ""
+  },
+  {
+    "id": 7,
+    "icon": "/images/Page-7.svg",
+    "title": "Le ciel bleu révèle l'alignement",
+    "description": ""
+  }
+]
